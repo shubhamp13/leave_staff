@@ -46,12 +46,12 @@
 						<div class="sidebar-small-cap">Extra</div>
 					</li>
 					<li>
-						<a href="https://aci.edu.gh/" class="dropdown-toggle no-arrow">
+						<a href="https://github.com/shubhamp13/leave_staff.git" class="dropdown-toggle no-arrow">
 							<span class="micon dw dw-edit-2"></span><span class="mtext">Visit Us</span>
 						</a>
 					</li>
 					<li>
-						<a href="https://aci.edu.gh/faculty" class="dropdown-toggle no-arrow">
+						<a href="https://www.asianacademypune.ac.in/about/our-staff" class="dropdown-toggle no-arrow">
 							<span class="micon dw dw-paper-plane1"></span>
 							<span class="mtext">Faculty </span>
 						</a>
